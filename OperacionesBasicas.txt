@@ -1,1 +1,3 @@
 Funcion suma(){}
+
+funcion multiplicar(){}
