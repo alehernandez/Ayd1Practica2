@@ -1,4 +1,6 @@
-Funcion suma(){}
+Funcion suma(){
+	//No hay validaciones 201404368
+}
 Funcion resta(){}
 Funcion dividir(){}
 funcion multiplicar(){}
