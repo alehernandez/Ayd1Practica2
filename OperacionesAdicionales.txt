@@ -1,3 +1,6 @@
 Metodo Factorial(){
 	//aca el metodo factorial RECURSIVO
 }
+Metodo Factorial(){}
+
+Metodo Factorial Iterativo(){}
