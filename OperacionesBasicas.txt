@@ -24,3 +24,4 @@ funcion potencia(){
 	//No hay validaciones 201404174
 	//No hay validaciones 201404368
 }
+funcion modular(){}
