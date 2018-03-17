@@ -1,4 +1,3 @@
 Metodo Factorial(){
 	//aca el metodo factorial RECURSIVO
 }
-
