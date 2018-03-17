@@ -1,21 +1,28 @@
 Funcion suma(int a, int b){
+	//No hay validaciones 201404174
 	//No hay validaciones 201404368
 	return a+b;
 }
 Funcion resta(){
+	//No hay validaciones 201404174
 	//No hay validaciones 201404368
 }
 Funcion dividir(){
+	//No hay validaciones 201404174
 	//Se debe de validar la division dentro de 0 201404368
 }
 funcion multiplicar(){
+	//No hay validaciones 201404174
 	//No hay validaciones 201404368
 }
 Funcion raizCuadrada(){
 	//201404368
+	//No hay validaciones 201404174
 	//No hay validaciones 201404368
 }
 funcion potencia(){
 	//201404174
+	//No hay validaciones 201404174
 	//No hay validaciones 201404368
 }
+funcion modular(){}
