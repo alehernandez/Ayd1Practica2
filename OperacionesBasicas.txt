@@ -16,6 +16,7 @@ funcion multiplicar(){
 }
 Funcion raizCuadrada(){
 	//201404368
+	//No hay validaciones 201404174
 	//No hay validaciones 201404368
 }
 funcion potencia(){
