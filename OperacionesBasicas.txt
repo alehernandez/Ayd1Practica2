@@ -7,6 +7,7 @@ Funcion resta(){
 	//No hay validaciones 201404368
 }
 Funcion dividir(){
+	//No hay validaciones 201404174
 	//Se debe de validar la division dentro de 0 201404368
 }
 funcion multiplicar(){
