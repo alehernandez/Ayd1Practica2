@@ -1,5 +1,6 @@
-Funcion suma(){
+Funcion suma(int a, int b){
 	//No hay validaciones 201404368
+	return a+b;
 }
 Funcion resta(){
 	//No hay validaciones 201404368
