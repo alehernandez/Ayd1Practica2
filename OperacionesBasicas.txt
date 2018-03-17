@@ -1,3 +1,4 @@
 Funcion suma(){}
 Funcion resta(){}
 Funcion dividir(){}
+funcion multiplicar(){}
