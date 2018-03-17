@@ -2,3 +2,9 @@ Funcion suma(){}
 Funcion resta(){}
 Funcion dividir(){}
 funcion multiplicar(){}
+funcion potencia(){
+	//201404174
+}
+funcion raizCuadrada(){
+	//201404174
+}
