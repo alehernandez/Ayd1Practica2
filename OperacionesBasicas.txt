@@ -4,7 +4,9 @@ Funcion suma(){
 Funcion resta(){
 	//No hay validaciones 201404368
 }
-Funcion dividir(){}
+Funcion dividir(){
+	//Se debe de validar la division dentro de 0 201404368
+}
 funcion multiplicar(){}
 Funcion raizCuadrada(){
 	//201404368
