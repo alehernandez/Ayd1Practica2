@@ -2,3 +2,6 @@ Funcion suma(){}
 Funcion resta(){}
 Funcion dividir(){}
 funcion multiplicar(){}
+Funcion raizCuadrada(){
+	//201404368
+}
