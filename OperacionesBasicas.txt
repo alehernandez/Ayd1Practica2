@@ -1,7 +1,9 @@
 Funcion suma(){
 	//No hay validaciones 201404368
 }
-Funcion resta(){}
+Funcion resta(){
+	//No hay validaciones 201404368
+}
 Funcion dividir(){}
 funcion multiplicar(){}
 Funcion raizCuadrada(){
