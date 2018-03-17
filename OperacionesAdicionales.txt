@@ -1,6 +1,6 @@
 Metodo Factorial(){
 	//aca el metodo factorial RECURSIVO
+	//No hay validaciones 201404368
 }
-Metodo Factorial(){}
 
 Metodo Factorial Iterativo(){}
