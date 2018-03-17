@@ -3,4 +3,6 @@ Metodo Factorial(){
 	//No hay validaciones 201404368
 }
 
-Metodo Factorial Iterativo(){}
+Metodo Factorial Iterativo(){
+	//No hay validaciones 201404368
+}
