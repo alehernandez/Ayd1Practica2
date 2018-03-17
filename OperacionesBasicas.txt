@@ -6,4 +6,9 @@ Funcion dividir(){}
 funcion multiplicar(){}
 Funcion raizCuadrada(){
 	//201404368
+funcion potencia(){
+	//201404174
+}
+funcion raizCuadrada(){
+	//201404174
 }
